@@ -57,7 +57,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter-12", "Chapter-12", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part-01", "Chapter-12\Part-1\Part-01.csproj", "{6F0C76DC-0594-4E7D-BB5A-629FD42AEDD5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part-2", "Chapter-12\Part-2\Part-2.csproj", "{B117AF9B-BD24-42EB-8D48-A7125D6B49FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part-02", "Chapter-12\Part-2\Part-02.csproj", "{B117AF9B-BD24-42EB-8D48-A7125D6B49FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
