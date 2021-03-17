@@ -49,7 +49,7 @@ class BuildingDemo
         //Вычислить площадь на одного человека в учреждении.
         areaPP = office.Area / office.Occupants;
 
-        Console.WriteLine("Учрежддение имеет:\n" +
+        Console.WriteLine("Учреждение имеет:\n" +
                            office.Floors + " этажа\n" +
                            office.Occupants + " работников\n" +
                            office.Area + " кв. футов общей площади, из них\n" +
