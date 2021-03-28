@@ -106,7 +106,7 @@ class Stack {
   } 
 }  
 
-listing 3
+listing 2-1
 // Demonstrate the Stack class.   
  
 using System; 
@@ -170,7 +170,7 @@ class StackDemo {
   }   
 }
 
-listing 4
+listing 3
 // References can be passed to methods.  
  
 using System; 
@@ -233,7 +233,7 @@ class PassOb {
   }  
 }
 
-listing 5
+listing 4
 // Value types are passed by value. 
  
 using System; 
@@ -263,7 +263,7 @@ class CallByValue {
   } 
 }
 
-listing 6
+listing 5
 // Objects are passed by reference. 
  
 using System; 
@@ -298,7 +298,7 @@ class CallByRef {
   } 
 }
 
-listing 7
+listing 6
 // Use ref to pass a value type by reference. 
  
 using System; 
@@ -324,7 +324,7 @@ class RefDemo {
   } 
 }
 
-listing 8
+listing 7
 // Swap two values. 
  
 using System; 
@@ -354,7 +354,7 @@ class ValueSwapDemo {
   } 
 }
 
-listing 9
+listing 8
 // Use out. 
  
 using System; 
@@ -385,7 +385,7 @@ class UseOut {
   } 
 }
 
-listing 10
+listing 9
 // Use two out parameters. 
  
 using System; 
@@ -440,7 +440,7 @@ class DemoOut {
   } 
 }
 
-listing 11
+listing 10
 // Swap two references. 
  
 using System; 
@@ -492,7 +492,7 @@ class RefSwapDemo {
   } 
 }
 
-listing 12
+listing 11
 // Demonstrate params. 
  
 using System; 
@@ -539,7 +539,7 @@ class ParamsDemo {
   } 
 }
 
-listing 13
+listing 12
 // Use regular parameter with a params parameter. 
  
 using System; 
@@ -567,7 +567,7 @@ class ParamsDemo2 {
   } 
 }
 
-listing 14
+listing 13
 // Return an object. 
  
 using System; 
@@ -615,7 +615,7 @@ class RetObj {
   } 
 }
 
-listing 15
+listing 14
 // Use a class factory. 
  
 using System; 
@@ -654,7 +654,7 @@ class MakeObjects {
   } 
 }
 
-listing 16
+listing 15
 // Return an array. 
  
 using System; 
@@ -695,7 +695,7 @@ class FindFactors {
   } 
 }
 
-listing 17
+listing 16
 // Demonstrate method overloading.  
  
 using System; 
@@ -746,7 +746,7 @@ class OverloadDemo {
   }  
 }
 
-listing 18
+listing 17
 // Implicit type conversions can affect overloaded method resolution. 
  
 using System; 
@@ -782,7 +782,7 @@ class TypeConv {
   } 
 }
 
-listing 19
+listing 18
 // Add MyMeth(byte). 
  
 using System; 
@@ -823,7 +823,7 @@ class TypeConv {
   } 
 }
 
-listing 20
+listing 19
 // Demonstrate an overloaded constructor. 
  
 using System; 
@@ -866,7 +866,7 @@ class OverloadConsDemo {
   } 
 }
 
-listing 21
+listing 20
 // A stack class for characters.   
   
 using System;  
@@ -973,7 +973,7 @@ class StackDemo {
   }   
 }
 
-listing 22
+listing 21
 // Demonstrate invoking a constructor through this. 
   
 using System;  
@@ -1008,7 +1008,7 @@ class OverloadConsDemo {
   }     
 }
 
-listing 23
+listing 22
 // A simple demonstrate that uses object initializers. 
   
 using System;  
@@ -1027,7 +1027,7 @@ class ObjInitDemo {
   }   
 }
 
-listing 24
+listing 23
 // Display all command-line information. 
  
 using System; 
@@ -1043,7 +1043,7 @@ class CLDemo {
   }  
 }
 
-listing 25
+listing 24
 // Encode or decode a message using a simple substitution cipher. 
  
 using System; 
@@ -1080,7 +1080,7 @@ class Cipher {
   } 
 }
 
-listing 26
+listing 25
 // A simple example of recursion.  
  
 using System; 
@@ -1122,7 +1122,7 @@ class Recursion {
   }  
 }
 
-listing 27
+listing 26
 // Display a string in reverse by using recursion. 
  
 using System; 
@@ -1154,7 +1154,7 @@ class RevStrDemo {
   } 
 }
 
-listing 28
+listing 27
 // Use static. 
  
 using System; 
@@ -1182,7 +1182,7 @@ class SDemo {
   } 
 }
 
-listing 29
+listing 28
 class StaticError { 
   public int Denom = 3; // a normal instance variable 
   public static int Val = 1024; // a static variable 
@@ -1194,7 +1194,7 @@ class StaticError {
   } 
 }
 
-listing 30
+listing 29
 using System; 
  
 class AnotherStaticError { 
@@ -1210,7 +1210,7 @@ class AnotherStaticError {
   } 
 }
 
-listing 31
+listing 30
 class MyClass { 
   // A non-static method. 
   void NonStaticMeth() { 
@@ -1224,7 +1224,7 @@ class MyClass {
   } 
 }
 
-listing 32
+listing 31
 // Use a static field to count instances. 
  
 using System; 
@@ -1259,7 +1259,7 @@ class CountDemo {
   }  
 }
 
-listing 33
+listing 32
 // Use a static class factory. 
  
 using System; 
@@ -1296,7 +1296,7 @@ class MakeObjects {
   } 
 }
 
-listing 34
+listing 33
 // Use a static constructor. 
  
 using System; 
@@ -1327,7 +1327,7 @@ class ConsDemo {
   } 
 }
 
-listing 35
+listing 34
 // Demonstrate a static class. 
   
 using System;  
@@ -1375,7 +1375,7 @@ class StaticClassDemo {
   }  
 }
 
-listing 36
+listing 35
 // Demonstrate optional arguments. 
   
 using System;  
@@ -1398,7 +1398,7 @@ class OptionArgDemo {
   }   
 }
 
-listing 37
+listing 36
 // Use an optional argument to simplify a call to a method. 
   
 using System;  
@@ -1428,7 +1428,7 @@ class UseOptArgs {
   }   
 }
 
-listing 38
+listing 37
 // Use named arguments. 
   
 using System;  
@@ -1461,4 +1461,3 @@ class NamedArgsDemo {
       Console.WriteLine("2 is factor of 10."); 
   }   
 }
-
