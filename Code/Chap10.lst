@@ -659,7 +659,7 @@ class RangeArray {
   public RangeArray(int low, int high) {  
     high++; 
     if(high <= low) { 
-      Console.WriteLine("Invalid Indices"); 
+      Console.WriteLine("Invalid Indixes"); 
       high = 1; // create a minimal array for safety 
       low = 0; 
     } 
