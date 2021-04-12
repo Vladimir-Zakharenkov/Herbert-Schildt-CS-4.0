@@ -122,16 +122,16 @@ class GenericDemo
 
 // The output is shown here:
 
-//ga[0]: 0
-//ga[1]: 1
-//ga[2]: 2
-//ga[3]: 1.5
-//ga[4]: 2
-//ga[5]: 2.5
-//ga[6]: Hello
-//ga[7]: True
-//ga[8]: X
-//ga[9]: end
+// ga[0]: 0
+// ga[1]: 1
+// ga[2]: 2
+// ga[3]: 1.5
+// ga[4]: 2
+// ga[5]: 2.5
+// ga[6]: Hello
+// ga[7]: True
+// ga[8]: X
+// ga[9]: end
 
 // As this program illustrates, because an object reference can hold a reference to any other
 // type of data, it is possible to use an object reference to refer to any type of data. Thus, an array
