@@ -333,7 +333,7 @@ class PhoneList<T> where T : PhoneNumber {
   // ... 
 } 
  
-// Demonstrate base clas constraints. 
+// Demonstrate base class constraints. 
 class UseBaseClassConstraint { 
   static void Main() { 
  
