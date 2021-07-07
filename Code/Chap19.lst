@@ -840,5 +840,3 @@ class ExtDemo {
                       val.AbsDivideBy(-2)); 
   }  
 }
-
-
